@@ -1,7 +1,2 @@
 
-(function() {
-
-
 console.log("test");
-
-});
